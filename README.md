@@ -24,7 +24,7 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 
 ## 💻 MS Office
 
-* [Unit 1 - Introduction to Computer](MS%20Office/Unit%201%20-%20introduction%20to%20computer.pdf)
+* [Unit 1 - Introduction to Computer](MS%20Office/introduction-to-computer.pdf)
 * [MS Word](MS%20Office/MS-Word.pdf)
 * [MS Excel](MS%20Office/MS-Excel.pdf)
 * [Power Point](MS%20Office/Power-point.pdf)
@@ -59,9 +59,9 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 * [Unit 3 - String in Python](Python/Unit%203%20-%20String%20in%20Python.pdf)
 * [Unit 4 - List and Tuple](Python/Unit%206%20-%20List%20and%20Tuple.pdf)
 * [Unit 5 - Dictionary](Python/Unit%205%20-%20Dictionary.pdf)
-* [Function](Python/Unit%206-%20Function.pdf)
+* [Unit 6 - Function](Python/Unit%206-%20Function.pdf)
+* [Unit 9 - NumPy Basics](Python/Unit%209-%20NumPy%20Basics.pdf)
 * [File Handling](Python/File-Processing.pdf)
-* [NumPy](Python/Unit%209-%20NumPy%20Basics.pdf)
 * [Pandas](Python/pandas.pdf)
 * [Matplotlib](Python/MatPlotLib.pdf)
 * [MySQL Connectivity](Python/Python%20MySQL%20Connectivity.pdf)
@@ -84,7 +84,7 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 * [Chapter 4 - Adv CSS](WebDesigning/css-adv.pdf)
 * [Chapter 5 - W3CC Framework](WebDesigning/Chapter%205%20-W3CC%20Framework.pdf)
 * [Chapter 6 - JavaScript](WebDesigning/Chapter%206%20-%20Java%20Script.pdf)
-* [Chapter 6 - Part 2 Angular JS](WebDesigning/Chapter%206%20-Part%202%20Angular%20JS.pdf)
+* [Chapter 6 - Part 2 Angular JS](WebDesigning/Chapter%206%20-Part%202%20Anguler%20JS.pdf)
 * [Chapter 7 - Photo Editors](WebDesigning/Chapter%207%20-Phot%20Editors.pdf)
 * [Chapter 8 - Web Publishing and Browsing](WebDesigning/Chapter%208%20-Web%20Publishing%20and%20Browsing....pdf)
 
