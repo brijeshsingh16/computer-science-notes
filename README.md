@@ -77,7 +77,7 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 
 ## 🎨 Web Designing
 
-* [Chapter 1 - Introduction to Web Design](WebDesigning/Chapter%201%20-Introduction%20to%20Web%20Design.p....pdf)
+* [Chapter 1 - Introduction to Web Design](WebDesigning/Chapter%201%20-Introduction%20to%20Web%20Design.pdf)
 * [Chapter 2 - Editors](WebDesigning/Chapter%202%20-Editors.pdf)
 * [Chapter 3 - HTML](WebDesigning/Chapter%203%20-HTML.pdf)
 * [Chapter 4 - CSS](WebDesigning/Chapter%204%20-CSS.pdf)
@@ -86,7 +86,7 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 * [Chapter 6 - JavaScript](WebDesigning/Chapter%206%20-%20Java%20Script.pdf)
 * [Chapter 6 - Part 2 Angular JS](WebDesigning/Chapter%206%20-Part%202%20Anguler%20JS.pdf)
 * [Chapter 7 - Photo Editors](WebDesigning/Chapter%207%20-Phot%20Editors.pdf)
-* [Chapter 8 - Web Publishing and Browsing](WebDesigning/Chapter%208%20-Web%20Publishing%20and%20Browsing....pdf)
+* [Chapter 8 - Web Publishing and Browsing](WebDesigning/Chapter%208%20-Web%20Publishing%20and%20Browsing.pdf)
 
 ---
 
@@ -94,9 +94,9 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 
 * [Unit 1 - Introduction to IOT](IOT/M4-R5-Unit-1-introduction-to-IOT.pdf)
 * [Unit 2 - Things and connections](IOT/Unit%202%20-%20Things%20and%20connections.pdf)
-* [Unit 3 - Sensor Actuators and Microcontrollers](IOT/Unit%203%20-Sensor%20Acutuators%20and%20Microcontr....pdf)
+* [Unit 3 - Sensor Actuators and Microcontrollers](IOT/Unit%203%20-Sensor%20Acutuators%20and%20Microcontrollers.pdf)
 * [Unit 4 - Building IOT Application](IOT/Unit%204%20-%20Building%20IOT%20application.pdf)
-* [Unit 5 - Security and Future of IoT Ecosystem](IOT/Unit%205%20Security%20and%20Future%20of%20IoT%20Ecosyste....pdf)
+* [Unit 5 - Security and Future of IoT Ecosystem](IOT/Unit%205%20Security%20and%20Future%20of%20IoT%20Ecosystem.pdf)
 
 ---
 
