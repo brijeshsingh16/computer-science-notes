@@ -45,10 +45,10 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 * [Unit 3 - LibreOffice Writer](IT%20Tools%20&%20Network/Unit%203%20-%20Libre%20Office%20Writer.pdf)
 * [Unit 4 - LibreOffice Calc](IT%20Tools%20&%20Network/Unit%204-%20Libre%20Office%20Calc.pdf)
 * [Unit 5 - LibreOffice Impress](IT%20Tools%20&%20Network/Unit%205%20-%20LibreOffice%20Impress.pdf)
-* [Unit 6 - Introduction of Internet and www](IT%20Tools%20&%20Network/Unit%20-6%20-introduction%20of%20Internet%20and%20ww....pdf)
-* [Unit 7 - E-mail Social Networking & E-Governance Services](IT%20Tools%20&%20Network/Unit%207%20-%20E-mail%20Social%20Networking%20&%20E-G....pdf)
-* [Unit 8 - Digital Financial Tools and Application](IT%20Tools%20&%20Network/Unit%208%20-%20Digital%20Financial%20Tools%20and%20Appli....pdf)
-* [Unit 9 - Overview of Future Skills and Cyber Security](IT%20Tools%20&%20Network/Unit%209%20-%20Overview%20of%20Future%20Skills%20and%20Cyb....pdf)
+* [Unit 6 - Introduction of Internet and www](IT%20Tools%20&%20Network/Unit%20-6%20-introduction%20of%20Internet%20and%20www.pdf)
+* [Unit 7 - E-mail Social Networking & E-Governance Services](IT%20Tools%20&%20Network/Unit%207%20-%20E-mail%20Social%20Networking%20&%20E-Governance%20Services.pdf)
+* [Unit 8 - Digital Financial Tools and Application](IT%20Tools%20&%20Network/Unit%208%20-%20Digital%20Financial%20Tools%20and%20Application.pdf)
+* [Unit 9 - Overview of Future Skills and Cyber Security](IT%20Tools%20&%20Network/Unit%209%20-%20Overview%20of%20Future%20Skills%20and%20Cyber%20Security.pdf)
 
 ---
 
