@@ -125,7 +125,7 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 * [Unit 2 - Introduction to JAVA](Java/Unit%202%20-%20Introduction%20to%20JAVA.pdf)
 * [Unit 4 - Value and Data Types](Java/Unit%204%20-%20Value%20and%20Data%20Types.pdf)
 * [Unit 5 - Operators](Java/Unit%205%20-%20Operators.pdf)
-* [Unit 6 - Conditional & Looping Statement](Java/Unit%206%20-%20Conditional%20&%20looping%20Statemen....pdf)
+* [Unit 6 - Conditional & Looping Statement](Java/Unit%206%20-%20Conditional%20&%20looping%20Statement.pdf)
 * [Unit 7 - Methods and Function](Java/Unit%207-%20Methods%20and%20Function.pdf)
 * [JAVA Complete](Java/java.pdf)
 * [JAVA Complete (Alternative)](Java/java%20(1).pdf)
