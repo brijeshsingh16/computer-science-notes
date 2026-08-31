@@ -24,11 +24,7 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 
 ## 💻 MS Office
 
-* [Unit 1 - Introduction to Computer](MS%20Office/Unit%201%20-%20Introduction%20to%20Computer.pdf)
-* [Unit 2 - Introduction to GUI Based Operating System](MS%20Office/Unit%202%20-%20Introduction%20to%20GUI%20Based%20Opera....pdf)
-* [Unit 3 - LibreOffice Writer](MS%20Office/Unit%203%20-%20Libre%20Office%20Writer.pdf)
-* [Unit 4 - LibreOffice Calc](MS%20Office/Unit%204-%20Libre%20Office%20Calc.pdf)
-* [Unit 5 - LibreOffice Impress](MS%20Office/Unit%205%20-%20LibreOffice%20Impress.pdf)
+* [Unit 1 - Introduction to Computer](MS%20Office/Unit%201%20-%20introduction%20to%20computer.pdf)
 * [MS Word](MS%20Office/MS-Word.pdf)
 * [MS Excel](MS%20Office/MS-Excel.pdf)
 * [Power Point](MS%20Office/Power-point.pdf)
