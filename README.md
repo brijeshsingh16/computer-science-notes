@@ -41,7 +41,7 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 ## 🌐 IT Tools & Network
 
 * [Unit 1 - Introduction to Computer](IT%20Tools%20&%20Network/Unit%201%20-%20Introduction%20to%20Computer.pdf)
-* [Unit 2 - Introduction to GUI Based Operating System](IT%20Tools%20&%20Network/Unit%202%20-%20Introduction%20to%20GUI%20Based%20Opera....pdf)
+* [Unit 2 - Introduction to GUI Based Operating System](IT%20Tools%20&%20Network/Unit%202%20-%20Introduction%20to%20GUI%20Based%20Operating%20System.pdf)
 * [Unit 3 - LibreOffice Writer](IT%20Tools%20&%20Network/Unit%203%20-%20Libre%20Office%20Writer.pdf)
 * [Unit 4 - LibreOffice Calc](IT%20Tools%20&%20Network/Unit%204-%20Libre%20Office%20Calc.pdf)
 * [Unit 5 - LibreOffice Impress](IT%20Tools%20&%20Network/Unit%205%20-%20LibreOffice%20Impress.pdf)
