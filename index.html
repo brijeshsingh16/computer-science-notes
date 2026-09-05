@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Computer Science Notes & Resources</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --muted: #64748b;
+      --primary: #2563eb;
+      --border: #e2e8f0;
+      --hover-bg: #f1f5f9;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 2rem;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 1.5rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      color: var(--muted);
+    }
+
+    .nav-toc {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .nav-toc h2 {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+    }
+
+    .toc-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.5rem;
+      list-style: none;
+    }
+
+    .toc-grid a {
+      color: var(--primary);
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+
+    .toc-grid a:hover {
+      text-decoration: underline;
+    }
+
+    .topic-section {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .topic-section h2 {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .pdf-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .pdf-list a {
+      display: inline-block;
+      color: var(--primary);
+      text-decoration: none;
+      padding: 0.35rem 0.5rem;
+      border-radius: 4px;
+      transition: background 0.15s;
+    }
+
+    .pdf-list a:hover {
+      background-color: var(--hover-bg);
+      text-decoration: underline;
+    }
+
+    .disabled-link {
+      color: var(--muted);
+      padding: 0.35rem 0.5rem;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <h1>Computer Science Notes & Resources</h1>
+      <p>Curated collection of CS study materials, unit notes, and PDF resources organized by domain and topic.</p>
+    </header>
+
+    <nav class="nav-toc">
+      <h2>📁 Table of Contents</h2>
+      <ul class="toc-grid">
+        <li><a href="#ms-office">💻 MS Office</a></li>
+        <li><a href="#dtp">🎨 DTP</a></li>
+        <li><a href="#it-tools">🌐 IT Tools & Network</a></li>
+        <li><a href="#python">🐍 Python</a></li>
+        <li><a href="#django">🟢 Django</a></li>
+        <li><a href="#web-design">🎨 Web Designing</a></li>
+        <li><a href="#iot">🔌 Internet of Things</a></li>
+        <li><a href="#c-lang">⚡ C Language</a></li>
+        <li><a href="#cpp-lang">⚡ C++ Basic & OOPs</a></li>
+        <li><a href="#mysql">🗄️ MySQL</a></li>
+        <li><a href="#java">☕ Java</a></li>
+        <li><a href="#dsa">📊 Data Structures (DSA)</a></li>
+        <li><a href="#ai">🤖 Artificial Intelligence</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <section class="topic-section" id="ms-office">
+        <h2>💻 MS Office</h2>
+        <ul class="pdf-list">
+          <li><a href="MS%20Office/introduction-to-computer.pdf" target="_blank">Unit 1 - Introduction to Computer</a></li>
+          <li><a href="MS%20Office/MS-Word.pdf" target="_blank">MS Word</a></li>
+          <li><a href="MS%20Office/MS-Excel.pdf" target="_blank">MS Excel</a></li>
+          <li><a href="MS%20Office/Power-point.pdf" target="_blank">Power Point</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="dtp">
+        <h2>🎨 DTP (Desktop Publishing)</h2>
+        <ul class="pdf-list">
+          <li><a href="DTP/corel.pdf" target="_blank">Corel Draw</a></li>
+          <li><a href="DTP/Photoshop.pdf" target="_blank">Photoshop</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="it-tools">
+        <h2>🌐 IT Tools & Network</h2>
+        <ul class="pdf-list">
+          <li><a href="IT%20Tools%20&%20Network/Unit%201%20-%20Introduction%20to%20Computer.pdf" target="_blank">Unit 1 - Introduction to Computer</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%202%20-%20Introduction%20to%20GUI%20Based%20Operating%20System.pdf" target="_blank">Unit 2 - Introduction to GUI Based Operating System</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%203%20-%20Libre%20Office%20Writer.pdf" target="_blank">Unit 3 - LibreOffice Writer</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%204-%20Libre%20Office%20Calc.pdf" target="_blank">Unit 4 - LibreOffice Calc</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%205%20-%20LibreOffice%20Impress.pdf" target="_blank">Unit 5 - LibreOffice Impress</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%20-6%20-introduction%20of%20Internet%20and%20www.pdf" target="_blank">Unit 6 - Introduction of Internet and www</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%207%20-%20E-mail%20Social%20Networking%20&%20E-Governance%20Services.pdf" target="_blank">Unit 7 - E-mail Social Networking & E-Governance Services</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%208%20-%20Digital%20Financial%20Tools%20and%20Application.pdf" target="_blank">Unit 8 - Digital Financial Tools and Application</a></li>
+          <li><a href="IT%20Tools%20&%20Network/Unit%209%20-%20Overview%20of%20Future%20Skills%20and%20Cyber%20Security.pdf" target="_blank">Unit 9 - Overview of Future Skills and Cyber Security</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="python">
+        <h2>🐍 Python</h2>
+        <ul class="pdf-list">
+          <li><a href="Python/python-unit1.pdf" target="_blank">Unit 1 - Introduction to Python</a></li>
+          <li><a href="Python/python-unit2.pdf" target="_blank">Unit 2 - Conditional and Iterative Statement</a></li>
+          <li><a href="Python/Unit%203%20-%20String%20in%20Python.pdf" target="_blank">Unit 3 - String in Python</a></li>
+          <li><a href="Python/Unit%206%20-%20List%20and%20Tuple.pdf" target="_blank">Unit 4 - List and Tuple</a></li>
+          <li><a href="Python/Unit%205%20-%20Dictionary.pdf" target="_blank">Unit 5 - Dictionary</a></li>
+          <li><a href="Python/Unit%206-%20Function.pdf" target="_blank">Unit 6 - Function</a></li>
+          <li><a href="Python/Unit%209-%20NumPy%20Basics.pdf" target="_blank">Unit 9 - NumPy Basics</a></li>
+          <li><a href="Python/File-Processing.pdf" target="_blank">File Handling</a></li>
+          <li><a href="Python/pandas.pdf" target="_blank">Pandas</a></li>
+          <li><a href="Python/MatPlotLib.pdf" target="_blank">Matplotlib</a></li>
+          <li><a href="Python/Python%20MySQL%20Connectivity.pdf" target="_blank">MySQL Connectivity</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="django">
+        <h2>🟢 Django</h2>
+        <ul class="pdf-list">
+          <li><a href="Django/Unit%201%20-%20Introduction%20to%20Django.pdf" target="_blank">Unit 1 - Introduction to Django</a></li>
+          <li><a href="Django/Unit%202%20-Working%20with%20Views.pdf" target="_blank">Unit 2 - Working with Views</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="web-design">
+        <h2>🎨 Web Designing</h2>
+        <ul class="pdf-list">
+          <li><a href="WebDesigning/Chapter%201%20-Introduction%20to%20Web%20Design.pdf" target="_blank">Chapter 1 - Introduction to Web Design</a></li>
+          <li><a href="WebDesigning/Chapter%202%20-Editors.pdf" target="_blank">Chapter 2 - Editors</a></li>
+          <li><a href="WebDesigning/Chapter%203%20-HTML.pdf" target="_blank">Chapter 3 - HTML</a></li>
+          <li><a href="WebDesigning/Chapter%204%20-CSS.pdf" target="_blank">Chapter 4 - CSS</a></li>
+          <li><a href="WebDesigning/css-adv.pdf" target="_blank">Chapter 4 - Adv CSS</a></li>
+          <li><a href="WebDesigning/Chapter%205%20-W3CC%20Framework.pdf" target="_blank">Chapter 5 - W3CC Framework</a></li>
+          <li><a href="WebDesigning/Chapter%206%20-%20Java%20Script.pdf" target="_blank">Chapter 6 - JavaScript</a></li>
+          <li><a href="WebDesigning/Chapter%206%20-Part%202%20Anguler%20JS.pdf" target="_blank">Chapter 6 - Part 2 Angular JS</a></li>
+          <li><a href="WebDesigning/Chapter%207%20-Phot%20Editors.pdf" target="_blank">Chapter 7 - Photo Editors</a></li>
+          <li><a href="WebDesigning/Chapter%208%20-Web%20Publishing%20and%20Browsing.pdf" target="_blank">Chapter 8 - Web Publishing and Browsing</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="iot">
+        <h2>🔌 Internet of Things (IoT)</h2>
+        <ul class="pdf-list">
+          <li><a href="IOT/M4-R5-Unit-1-introduction-to-IOT.pdf" target="_blank">Unit 1 - Introduction to IOT</a></li>
+          <li><a href="IOT/Unit%202%20-%20Things%20and%20connections.pdf" target="_blank">Unit 2 - Things and connections</a></li>
+          <li><a href="IOT/Unit%203%20-Sensor%20Acutuators%20and%20Microcontrollers.pdf" target="_blank">Unit 3 - Sensor Actuators and Microcontrollers</a></li>
+          <li><a href="IOT/Unit%204%20-%20Building%20IOT%20application.pdf" target="_blank">Unit 4 - Building IOT Application</a></li>
+          <li><a href="IOT/Unit%205%20Security%20and%20Future%20of%20IoT%20Ecosystem.pdf" target="_blank">Unit 5 - Security and Future of IoT Ecosystem</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="c-lang">
+        <h2>⚡ C Language</h2>
+        <ul class="pdf-list">
+          <li><a href="C%20Programming.pdf" target="_blank">C Programming</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="cpp-lang">
+        <h2>⚡ C++ Basic & OOPs</h2>
+        <ul class="pdf-list">
+          <li><a href="cpp-basic.pdf" target="_blank">C++ Basic</a></li>
+          <li><a href="oops_with_cpp.pdf" target="_blank">C++ OOPs</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="mysql">
+        <h2>🗄️ MySQL</h2>
+        <ul class="pdf-list">
+          <li><a href="MySQL.pdf" target="_blank">MySQL</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="java">
+        <h2>☕ Java</h2>
+        <ul class="pdf-list">
+          <li><a href="Java/Unit%201-%20Basic%20Concept%20of%20OOPS.pdf" target="_blank">Unit 1 - Basic Concept of OOPS</a></li>
+          <li><a href="Java/Unit%202%20-%20Introduction%20to%20JAVA.pdf" target="_blank">Unit 2 - Introduction to JAVA</a></li>
+          <li><a href="Java/Unit%204%20-%20Value%20and%20Data%20Types.pdf" target="_blank">Unit 4 - Value and Data Types</a></li>
+          <li><a href="Java/Unit%205%20-%20Operators.pdf" target="_blank">Unit 5 - Operators</a></li>
+          <li><a href="Java/Unit%206%20-%20Conditional%20&%20looping%20Statement.pdf" target="_blank">Unit 6 - Conditional & Looping Statement</a></li>
+          <li><a href="Java/Unit%207-%20Methods%20and%20Function.pdf" target="_blank">Unit 7 - Methods and Function</a></li>
+          <li><a href="Java/java.pdf" target="_blank">JAVA Complete</a></li>
+          <li><a href="Java/java%20(1).pdf" target="_blank">JAVA Complete (Alternative)</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="dsa">
+        <h2>📊 Data Structure & Algorithms (DSA)</h2>
+        <ul class="pdf-list">
+          <li><a href="DSA/dsa-unit1.pdf" target="_blank">Unit 1 - Introduction to Data Structure</a></li>
+          <li><a href="DSA/array.pdf" target="_blank">Unit 2 - Array</a></li>
+          <li><a href="DSA/linked-list.pdf" target="_blank">Unit 3 - Linked List</a></li>
+          <li><a href="DSA/stack.pdf" target="_blank">Unit 4 - Stack</a></li>
+          <li><a href="DSA/queue.pdf" target="_blank">Unit 5 - Queue</a></li>
+          <li><a href="DSA/tree.pdf" target="_blank">Unit 6 - Tree</a></li>
+          <li><a href="DSA/graph.pdf" target="_blank">Unit 7 - Graph</a></li>
+          <li><a href="DSA/hasing.pdf" target="_blank">Unit 8 - Hashing</a></li>
+          <li><a href="DSA/dsa.pdf" target="_blank">DSA Complete</a></li>
+        </ul>
+      </section>
+
+      <section class="topic-section" id="ai">
+        <h2>🤖 Artificial Intelligence (AI)</h2>
+        <ul class="pdf-list">
+          <li class="disabled-link">AI Introduction (PDF coming soon)</li>
+          <li class="disabled-link">AI in Content Creation (PDF coming soon)</li>
+          <li class="disabled-link">AI in Image Creation (PDF coming soon)</li>
+          <li class="disabled-link">AI in Video Creation (PDF coming soon)</li>
+        </ul>
+      </section>
+    </main>
+  </div>
+
+</body>
+</html>
