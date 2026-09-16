@@ -18,7 +18,6 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 - [MySQL](#-mysql)
 - [Java](#-java)
 - [Data Structure & Algorithms (DSA)](#-data-structure--algorithms-dsa)
-- [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
 
 ---
 
