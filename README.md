@@ -145,10 +145,3 @@ Curated collection of CS study materials, unit notes, and PDF resources organize
 * [DSA Complete](DSA/dsa.pdf)
 
 ---
-
-## 🤖 Artificial Intelligence (AI)
-
-* AI Introduction *(PDF coming soon)*
-* AI in Content Creation *(PDF coming soon)*
-* AI in Image Creation *(PDF coming soon)*
-* AI in Video Creation *(PDF coming soon)*
